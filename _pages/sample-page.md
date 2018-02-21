@@ -4,7 +4,7 @@ post_title: Sample Page
 author: s.ryan28@me.com
 post_excerpt: ""
 layout: page
-permalink: http://scottryan.org/sample-page/
+permalink: http://scottryan.org/
 published: true
 post_date: 2017-10-23 14:44:03
 ---
